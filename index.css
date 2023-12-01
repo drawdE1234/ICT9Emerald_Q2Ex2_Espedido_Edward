@@ -1,0 +1,21 @@
+#Title {
+ text-align: center;
+}
+
+#topic1 {
+ background-color: darkblue;
+ color: white;
+ width: 70%;
+padding: 20px;
+margin-right: auto;
+margin-left: auto;
+}
+
+#topic2 {
+ background-color: darkred;
+ color: black;
+ width: 70%;
+padding: 20px;
+margin-right: auto;
+margin-left: auto;
+}
